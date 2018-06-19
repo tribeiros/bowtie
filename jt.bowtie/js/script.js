@@ -20,13 +20,3 @@ function trackUpdate(track)
 		$('artist').style.maxWidth = "none";
 	}
 }
-
-/*function artworkUpdate(artURL)
-{
-	if (artURL == "")
-		// use "no art" image
-		$('holder').src = "img/noartwork.png";
-	else
-		// use artURL
-		$('holder').src = artURL;
-}*/
