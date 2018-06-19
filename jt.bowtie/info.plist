@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BTThemeName</key>
+    <string>jt</string>
+    <key>tribeiros</key>
+    <integer>220</integer>
+    <key>BTArtistURL</key>
+    <string>https://github.com/tribeiros</string>
+    <key>BTThemeIdentifier</key>
+    <integer>com.tribeiros.MagicTheme</integer>
+    <key>BTThemeVersion</key>
+    <integer>1.0</integer>
+    <key>BTMainFile</key>
+    <integer>index.html</integer>
+    <key>BTThemePreviewImage</key>
+    <integer>preview.png</integer>
+    <key>BTWindowWidth</key>
+    <integer>300</integer>
+    <key>BTWindowHeigth</key>
+    <integer>300</integer>
+</dict>
+</plist>
