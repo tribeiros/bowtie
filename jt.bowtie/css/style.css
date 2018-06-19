@@ -7,28 +7,9 @@ body
 
 #content 
 {
-	background-image:url(../img/right.png);
-	background-position:right;
-	background-repeat:no-repeat;
 	height: 22px;
 	float: left;
 	padding-right: 73px;
-}
-
-#artworkHolder 
-{
-	width:25px;
-	height:22px;
-	float:left;
-	background-color: black;
-}
-
-#holder
-{
-	width: 16px;
-	height: 16px;
-	float: left;
-	margin: 3px;
 }
 
 #timer
