@@ -7,14 +7,14 @@ body
 
 #content 
 {
-	height: 22px;
+	height: 100px;
 	float: left;
 	padding-right: 73px;
 }
 
 #timer
 {
-	height: 22px;
+	height: 100px;
 	background-color: black;
 	padding-left: 22px;
 	padding-top: 5px;	
@@ -26,22 +26,23 @@ body
 
 #text 
 {
-	height:22px;
+	height:100px;
 	float:left;
 	display: block;
-	line-height:26px;
+	line-height:100px;
 	color:white;
 	font-family:'Myriad Pro',Myriad,Helvetica,sans-serif;
-	font-size: 12px;
-	background-color: black;
+	font-size: 36px;
+	background-color: transparent;
 }
 
 #title 
 {
+	opacity: 0.6;
 	font-weight: bold;
 	color: white;
 	margin: 0px;
-	height: 22px;
+	height: 100px;
 	max-width: none;
 	float: left;
 	margin-right: 5px;
@@ -52,9 +53,11 @@ body
 
 #artist 
 {
+	display: none;
+	position: fixed;
 	opacity: 0.6;
 	padding: 0px;
-	height: 22px;
+	height: 100px;
 	width: auto;
 	float: left;
 	max-width: none;
